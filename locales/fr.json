@@ -1,0 +1,6 @@
+{
+  "language": "Français",
+  "happyHolidays": "Joyeuses fêtes !",
+  "christmasIsComing": "{ date } est dans { time } ",
+  "day": "un jour | {count} jours"
+}
